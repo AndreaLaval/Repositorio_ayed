@@ -5,3 +5,6 @@ def nombre():
 
 def numero():
     return 1403
+
+def funcion():
+    return "funcion"
